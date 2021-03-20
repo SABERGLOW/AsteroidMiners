@@ -27,7 +27,7 @@ public class Main {
 		inv.addResource(res2);
 		inv.addResource(res3);
 		inv.addResource(res1);
-		//These 2 can't be added
+		//These 2 won't be added
 		inv.addResource(res1);
 		inv.addResource(res1);
 		
