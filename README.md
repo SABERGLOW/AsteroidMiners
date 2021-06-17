@@ -4,7 +4,7 @@
 
   ---
   
-[Asteroid Miners](https://github.com/SABERGLOW/AsteroidMiners) is a survival type game where you mine and collect resources to build a Robots, Teleportation Gates and a Space Station to win the game. Beware, Dangers lurk in the asteroid belt. SunStorms and Radioactive Explosions can your demise. Mine, Survicve, and Build a Space Station to win. cHappy Mining.
+[Asteroid Miners](https://github.com/SABERGLOW/AsteroidMiners) is a survival type game where you mine and collect resources to build Robots, Teleportation Gates and a Space Station to win the game. Beware, Dangers lurk in the asteroid belt. SunStorms and Radioactive Explosions can your demise. Mine, Survicve, and Build a Space Station to win. cHappy Mining.
 
   ---
 
