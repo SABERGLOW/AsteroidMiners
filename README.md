@@ -6,6 +6,11 @@
 
   ---
 
+### Documentation:
+  Please read the full [documentation](https://github.com/SABERGLOW/AsteroidMiners/blob/main/Documentation/Documentation.pdf).
+  
+  ---
+
 ### Contributors:
   - [Wali Ullah](https://github.com/SABERGLOW) -Project Lead & Developer-
   - [Asad Idrees Razak](https://github.com/idreesshaikh) -Developer and Tester-
