@@ -14,7 +14,7 @@
   - JDK 8 or higher
   - IDE: IntelliJ IDEA
   
-  Please read the [documentation](https://github.com/SABERGLOW/AsteroidMiners/blob/main/Documentation/Documentation.pdf) for more detailed information.
+  _Please read the [documentation](https://github.com/SABERGLOW/AsteroidMiners/blob/main/Documentation/Documentation.pdf) for more detailed information._
 
 
 ## How to Run:
@@ -26,7 +26,7 @@
   
   Once you have successfully completed all these steps,you can build the project and run it with DesktopLauncer config that you set up earlier. After you press the start button, the game should start.
   
-  Please read the [documentation](https://github.com/SABERGLOW/AsteroidMiners/blob/main/Documentation/Documentation.pdf) for more detailed information.
+  _Please read the [documentation](https://github.com/SABERGLOW/AsteroidMiners/blob/main/Documentation/Documentation.pdf) for more detailed information._
 
 
 ## Documentation:
