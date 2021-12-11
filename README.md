@@ -19,7 +19,7 @@
 
 ## How to Run:
   In order to be able to run the executable program,please follow the steps carefully:
-  - Set the configuration in your IntelliJ IDEA: DesktopLauncerin GameMain
+  - Set the configuration in your IntelliJ IDEA: Desktop Launcher in GameMain
   - Class path of module: AsteroidMining.desktop.main
   - Project Structure > Modules > Assets > Mark as “Resources”
   - Make sure your gradle is setup properly for projectbuild
